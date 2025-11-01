@@ -18,6 +18,7 @@
 
 ## 🚀 Quick Start
 ```bash
-git clone [your-repo-url]
-cd projects/01_calculator
+git clone [https://github.com/sadikshya2061/python-learning-week1]
+cd python-learning-week1
+python calculator.py
 python calculator.py
