@@ -18,7 +18,7 @@
 
 ## 🚀 Quick Start
 ```bash
-git clone [https://github.com/sadikshya2061/python-learning-week1]
+git clone:  https://github.com/sadikshya2061/python-learning-week1.git
 cd python-learning-week1
 python calculator.py
 
