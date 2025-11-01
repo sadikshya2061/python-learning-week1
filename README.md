@@ -21,4 +21,4 @@
 git clone [https://github.com/sadikshya2061/python-learning-week1]
 cd python-learning-week1
 python calculator.py
-python calculator.py
+
